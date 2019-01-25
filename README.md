@@ -5,6 +5,8 @@ Why should you be limited to only one nothing?
 
 ## Usage
 
+Install with `gem install bottomless_void`. See [rubygems](https://rubygems.org/gems/bottomless_void).
+
 ```ruby
 irb(main):001:0> require 'bottomless_void'
 => true
